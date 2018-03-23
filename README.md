@@ -1,0 +1,2 @@
+# cobertura
+for jenkins sonarqube
